@@ -47,6 +47,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>JenkinsApp3</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
