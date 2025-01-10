@@ -1,4 +1,4 @@
-package custom.test.jenkins.bootApp2;
+package custom.test.jenkins.bootApp3;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
