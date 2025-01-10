@@ -1,4 +1,5 @@
-FROM docker.smallrookie.top/openjdk:8u102-jdk 
+#FROM docker.smallrookie.top/openjdk:8u102-jdk 
+FROM jenkins/jenkins:jdk17 
 WORKDIR /usr/local/
 COPY JenkinsApp3.jar app.jar
 EXPOSE 8085
