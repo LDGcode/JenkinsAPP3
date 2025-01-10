@@ -8,7 +8,7 @@ public class BasicController {
 
     @GetMapping("/")
     public String hello() {
-        return "Hello, Spring Boot!";
+        return "Hello, I'am bootApp3";
     }
 }
 
