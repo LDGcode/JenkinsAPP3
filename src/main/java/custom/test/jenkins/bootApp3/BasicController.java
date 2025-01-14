@@ -8,7 +8,7 @@ public class BasicController {
 
     @GetMapping("/")
     public String hello() {
-        return "Hello, I'am bootApp3 --V2.0.0";
+        return "Hello, I'am bootApp3 --V3.0.0";
     }
 }
 
