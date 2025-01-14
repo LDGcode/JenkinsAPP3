@@ -3,7 +3,7 @@ services:
     build:
       context: ./
       dockerfile: Dockerfile
-    image: jenkinsapp3:v2
+    image: jenkinsapp3:v3
     container_name: boot-web3
     ports:
       - "8085:8085"
